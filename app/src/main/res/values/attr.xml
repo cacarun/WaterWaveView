@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WaterView">
+        <attr name="waterview_paint_color_first" format="color" />
+        <attr name="waterview_paint_color_second" format="color" />
+        <attr name="waterview_amplitude" format="integer" />
+        <attr name="waterview_sin_cycle" format="float" />
+        <attr name="waterview_offset_increment_value" format="float" />
+        <attr name="waterview_up_velocity" format="integer" />
+        <attr name="waterview_sleep_time" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="LoadingButton">
+        <attr name="text" format="string" />
+    </declare-styleable>
+
+</resources>
